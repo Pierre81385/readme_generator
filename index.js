@@ -65,7 +65,7 @@ const questions = [
   {
     type: "input",
     message: "Please list your collaborators, if any:",
-    name: "collaborators",
+    name: "credits",
     validate: (value) => {
       if (value) {
         return true;

@@ -1,34 +1,30 @@
 # Peter's Project
 
-  ## Description 
-  
-  It's projected to project tons of projectiles.
+## Description
 
-  ## Table of Contents
+Description of the project goes here.
 
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[Credits](#credits)
-  *[License](#license)
+## Table of Contents
 
-  ISC
+_[Installation](#installation)
+_[Usage](#usage)
+_[Credits](#credits)
+_[License](#license)
 
-  ## License ISC
+## License ISC
 
-  ## Installation 
+## Installation
 
-  Just install and enjoy.
+Install and enjoy!
 
-  ## Usage
+## Usage
 
-  It's used to project greatness.
+Use the project for good not evil.
 
-  ## How to Contribut
+## How to Contribut
 
-  No contributors please.
+No contributors right now.
 
-  ## Credits 
+## Credits
 
-  undefined
-
-
+No Collaborators.
